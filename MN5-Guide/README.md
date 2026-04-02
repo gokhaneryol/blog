@@ -1698,6 +1698,6 @@ Bu çalışma **PRIVOAI** projesinin bir parçasıdır — gizlilik odaklı, aç
  
 ---
  
-*Yazar: Gökhan Eryol | gokhaneryol@gmail.com*
+*Yazar: Gökhan Eryol | gokhan@eryol.com*
 *Son güncelleme: Nisan 2026*
 *Platform: MareNostrum 5, BSC Barcelona — EuroHPC AI Factory Playground `ehpc648`*
