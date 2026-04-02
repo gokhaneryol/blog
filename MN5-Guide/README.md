@@ -1673,7 +1673,7 @@ Bu rehbere eşlik eden ek kaynaklar GitHub deposunda yer almaktadır:
  
 - **[Bu Rehber (kaynak)](https://github.com/gokhaneryol/blog/blob/main/MN5-Guide/README.md)** — MN5 Kullanıcı Rehberi
 - **[MN5 Başlangıç Kiti](https://github.com/gokhaneryol/blog/blob/main/MN5-Guide/mn5-starter-kit/)** — Claude/AI asistanı talimatları, SLURM şablonları, sync scripti (`tar.gz` dahil)
-- **[Detaylı Örnek: 4 Model + Pipeline Demo](https://github.com/gokhaneryol/blog/blob/main/MN5-Guide/example-4model-pipeline.md)** — PRIVOAI Faz 2'de bizzat çalıştırılan senaryo
+- **[Detaylı Örnek: 4 Model + Pipeline Demo](https://github.com/gokhaneryol/lecta-corp/blob/main/docs/playground/example-4model-pipeline.md)** — PRIVOAI Faz 2'de bizzat çalıştırılan senaryo - (Yetkili Erişimine Açık)
  
 ---
  
