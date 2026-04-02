@@ -1665,7 +1665,39 @@ C: EuroHPC tahsisini aldıysanız yayınlarınızda EuroHPC Joint Undertaking ve
 C: Evet. 4B model tek GPU'ya (~8-10 GB bellek) sığar; 9B model de tek H100'e rahatlıkla yüklenir. Farklı portlarda ayrı vLLM instance'ları çalıştırarak her ikisini aynı job içinde aktif tutabilirsiniz (Bölüm 11.3).
 
 ---
-
+---
+ 
+## Ekler ve Bağlantılar
+ 
+Bu rehbere eşlik eden ek kaynaklar GitHub deposunda yer almaktadır:
+ 
+- **[Bu Rehber (kaynak)](https://github.com/gokhaneryol/blog/blob/main/MN5-Guide/README.md)** — MN5 Kullanıcı Rehberi
+- **[MN5 Başlangıç Kiti](https://github.com/gokhaneryol/blog/blob/main/MN5-Guide/mn5-starter-kit/)** — Claude/AI asistanı talimatları, SLURM şablonları, sync scripti (`tar.gz` dahil)
+- **[Detaylı Örnek: 4 Model + Pipeline Demo](https://github.com/gokhaneryol/blog/blob/main/MN5-Guide/example-4model-pipeline.md)** — PRIVOAI Faz 2'de bizzat çalıştırılan senaryo
+ 
+---
+ 
+## Teşekkür
+ 
+Bu rehber, **Barcelona Supercomputing Center (BSC)** bünyesindeki **EuroHPC AI Factory Playground** tahsisi kapsamında gerçekleştirilen pratik çalışmalardan edinilen deneyimler ışığında hazırlanmıştır.
+ 
+BSC destek ekibine, paylaşımlı AI Hub container'larını sağladıkları ve teknik sorularımıza hızlı yanıt verdikleri için teşekkür ederim. MN5'in mükemmel donanım altyapısı ve bakımlı yazılım ekosistemi, bu tür araştırmaları mümkün kılmaktadır.
+ 
+Bu çalışma **PRIVOAI** projesinin bir parçasıdır — gizlilik odaklı, açık kaynaklı, düzenlenmiş ortamlarda çalışmak üzere tasarlanmış bir yapay zeka platformu.
+ 
+> *"The work described in this document was supported by the EuroHPC Joint Undertaking and Barcelona Supercomputing Center (BSC) through the AI Factory Playground call, granting access to the MareNostrum5 supercomputer."*
+ 
+**Faydalı BSC Bağlantıları:**
+ 
+| Kaynak | URL |
+|---|---|
+| Resmi Dokümantasyon | https://www.bsc.es/supportkc/docs/MareNostrum5/overview/ |
+| Destek & Ticket | https://www.bsc.es/support |
+| EuroHPC Erişim Çağrıları | https://eurohpc-ju.europa.eu/apply-computing-time |
+| BSC Kullanıcı Portalı | https://userportal.bsc.es |
+ 
+---
+ 
 *Yazar: Gökhan Eryol | gokhaneryol@gmail.com*
 *Son güncelleme: Nisan 2026*
 *Platform: MareNostrum 5, BSC Barcelona — EuroHPC AI Factory Playground `ehpc648`*
